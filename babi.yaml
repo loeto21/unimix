@@ -7,6 +7,6 @@ spec:
     spec:
       containers:
         - name: kampret
-          image: 637423199605.dkr.ecr.us-east-1.amazonaws.com/kampret:latest
+          image: 637423199605.dkr.ecr.eu-north-1.amazonaws.com/kampret:latest
       restartPolicy: Never
   backoffLimit: 4
