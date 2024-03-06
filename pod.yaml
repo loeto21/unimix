@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: 637423199605.dkr.ecr.eu-north-1.amazonaws.com/kampret:latest
+          image: 432258001168.dkr.ecr.us-east-1.amazonaws.com/tensure:latest
           ports:
             - containerPort: 8080
 
